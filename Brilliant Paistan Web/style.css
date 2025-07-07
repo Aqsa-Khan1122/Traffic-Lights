@@ -1,0 +1,33 @@
+#navbar{
+    display: inline;
+    color:#f08804;
+}
+#box{
+    display: inline;
+    color: blue;
+    margin-right: 150px;
+}
+a{
+    color: black;
+    margin-right: 150px;
+}
+#Heading1{
+    color: blue; 
+    margin-right: 20px;
+    height: 10px;
+}
+#Heading2{
+    color: blue;
+    margin-right: 20px;
+    height: 10px;
+
+#Heading3{
+    color: #f08804;
+    margin-right: 20px;
+    height: 10px;
+}
+p{
+    height: 25px;
+    width: 500px;
+    text-align: left;
+}
